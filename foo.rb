@@ -1,1 +1,1 @@
-require './ext/foo'
+require './foo'
